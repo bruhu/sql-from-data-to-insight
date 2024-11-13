@@ -1,0 +1,166 @@
+year,countries,ISO,region,hf_score,hf_rank
+2019,Albania,ALB,Eastern Europe,8.14,43
+2019,Algeria,DZA,Middle East & North Africa,5.26,154
+2019,Angola,AGO,Sub-Saharan Africa,6.09,129
+2019,Argentina,ARG,Latin America & the Caribbean,7.38,74
+2019,Armenia,ARM,Caucasus & Central Asia,8.2,40
+2019,Australia,AUS,Oceania,8.84,8
+2019,Austria,AUT,Western Europe,8.67,21
+2019,Azerbaijan,AZE,Caucasus & Central Asia,6.16,127
+2019,"Bahamas, The",BHS,Latin America & the Caribbean,8.22,38
+2019,Bahrain,BHR,Middle East & North Africa,5.73,143
+2019,Bangladesh,BGD,South Asia,5.75,142
+2019,Barbados,BRB,Latin America & the Caribbean,7.92,51
+2019,Belarus,BLR,Eastern Europe,6.73,109
+2019,Belgium,BEL,Western Europe,8.61,23
+2019,Belize,BLZ,Latin America & the Caribbean,7.64,63
+2019,Benin,BEN,Sub-Saharan Africa,7.32,76
+2019,Bhutan,BTN,South Asia,6.86,98
+2019,Bolivia,BOL,Latin America & the Caribbean,6.94,92
+2019,Bosnia and Herzegovina,BIH,Eastern Europe,7.54,67
+2019,Botswana,BWA,Sub-Saharan Africa,7.9,53
+2019,Brazil,BRA,Latin America & the Caribbean,7.22,78
+2019,Brunei Darussalam,BRN,South Asia,6.46,116
+2019,Bulgaria,BGR,Eastern Europe,8.08,45
+2019,Burkina Faso,BFA,Sub-Saharan Africa,6.85,100
+2019,Burundi,BDI,Sub-Saharan Africa,5.02,157
+2019,Cabo Verde,CPV,Sub-Saharan Africa,8.26,36
+2019,Cambodia,KHM,South Asia,6.47,115
+2019,Cameroon,CMR,Sub-Saharan Africa,5.63,145
+2019,Canada,CAN,North America,8.85,6
+2019,Central African Republic,CAF,Sub-Saharan Africa,5.62,147
+2019,Chad,TCD,Sub-Saharan Africa,5.57,150
+2019,Chile,CHL,Latin America & the Caribbean,8.44,28
+2019,China,CHN,East Asia,5.57,150
+2019,Colombia,COL,Latin America & the Caribbean,7.01,89
+2019,Comoros,COM,Sub-Saharan Africa,6.07,130
+2019,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,5.62,147
+2019,"Congo, Rep.",COG,Sub-Saharan Africa,5.55,152
+2019,Costa Rica,CRI,Latin America & the Caribbean,8.25,37
+2019,Cote d'Ivoire,CIV,Sub-Saharan Africa,6.9,95
+2019,Croatia,HRV,Eastern Europe,8.16,42
+2019,Cyprus,CYP,Eastern Europe,8.42,29
+2019,Czech Republic,CZE,Eastern Europe,8.61,23
+2019,Denmark,DNK,Western Europe,8.98,3
+2019,Djibouti,DJI,Sub-Saharan Africa,5.84,137
+2019,Dominican Republic,DOM,Latin America & the Caribbean,7.88,54
+2019,Ecuador,ECU,Latin America & the Caribbean,7.43,72
+2019,"Egypt, Arab Rep.",EGY,Middle East & North Africa,4.49,161
+2019,El Salvador,SLV,Latin America & the Caribbean,7.39,73
+2019,Estonia,EST,Eastern Europe,8.91,4
+2019,Eswatini,SWZ,Sub-Saharan Africa,5.79,139
+2019,Ethiopia,ETH,Sub-Saharan Africa,5.95,132
+2019,Fiji,FJI,Oceania,7.36,75
+2019,Finland,FIN,Western Europe,8.85,6
+2019,France,FRA,Western Europe,8.34,34
+2019,Gabon,GAB,Sub-Saharan Africa,6.8,104
+2019,"Gambia, The",GMB,Sub-Saharan Africa,6.88,97
+2019,Georgia,GEO,Caucasus & Central Asia,8.2,40
+2019,Germany,DEU,Western Europe,8.73,15
+2019,Ghana,GHA,Sub-Saharan Africa,7.49,70
+2019,Greece,GRC,Eastern Europe,7.86,56
+2019,Guatemala,GTM,Latin America & the Caribbean,7.63,65
+2019,Guinea,GIN,Sub-Saharan Africa,5.82,138
+2019,Guinea-Bissau,GNB,Sub-Saharan Africa,6.77,106
+2019,Guyana,GUY,Latin America & the Caribbean,7.49,70
+2019,Haiti,HTI,Latin America & the Caribbean,7.21,80
+2019,Honduras,HND,Latin America & the Caribbean,7.09,86
+2019,"Hong Kong SAR, China",HKG,East Asia,8.41,30
+2019,Hungary,HUN,Eastern Europe,7.73,59
+2019,Iceland,ISL,Western Europe,8.77,12
+2019,India,IND,South Asia,6.39,119
+2019,Indonesia,IDN,South Asia,7.1,85
+2019,Iran,IRN,Middle East & North Africa,4.53,160
+2019,Iraq,IRQ,Middle East & North Africa,5.02,157
+2019,Ireland,IRL,Western Europe,8.9,5
+2019,Israel,ISR,Middle East & North Africa,7.66,62
+2019,Italy,ITA,Western Europe,8.49,26
+2019,Jamaica,JAM,Latin America & the Caribbean,7.91,52
+2019,Japan,JPN,East Asia,8.73,15
+2019,Jordan,JOR,Middle East & North Africa,6.91,94
+2019,Kazakhstan,KAZ,Caucasus & Central Asia,6.77,106
+2019,Kenya,KEN,Sub-Saharan Africa,6.73,109
+2019,"Korea, Rep.",KOR,East Asia,8.39,31
+2019,Kuwait,KWT,Middle East & North Africa,6.34,121
+2019,Kyrgyz Republic,KGZ,Caucasus & Central Asia,7.18,81
+2019,Lao PDR,LAO,South Asia,5.85,136
+2019,Latvia,LVA,Eastern Europe,8.67,21
+2019,Lebanon,LBN,Middle East & North Africa,6.76,108
+2019,Lesotho,LSO,Sub-Saharan Africa,7.01,89
+2019,Liberia,LBR,Sub-Saharan Africa,6.81,103
+2019,Libya,LBY,Middle East & North Africa,5.05,156
+2019,Lithuania,LTU,Eastern Europe,8.68,19
+2019,Luxembourg,LUX,Western Europe,8.8,10
+2019,Madagascar,MDG,Sub-Saharan Africa,7.02,88
+2019,Malawi,MWI,Sub-Saharan Africa,6.99,91
+2019,Malaysia,MYS,South Asia,7.17,82
+2019,Mali,MLI,Sub-Saharan Africa,6.25,124
+2019,Malta,MLT,Western Europe,8.45,27
+2019,Mauritania,MRT,Sub-Saharan Africa,5.73,143
+2019,Mauritius,MUS,Sub-Saharan Africa,8.07,46
+2019,Mexico,MEX,Latin America & the Caribbean,6.92,93
+2019,Moldova,MDA,Eastern Europe,7.68,61
+2019,Mongolia,MNG,East Asia,8.0,47
+2019,Montenegro,MNE,Eastern Europe,7.88,54
+2019,Morocco,MAR,Middle East & North Africa,5.9,134
+2019,Mozambique,MOZ,Sub-Saharan Africa,6.8,104
+2019,Myanmar,MMR,South Asia,5.78,141
+2019,Namibia,NAM,Sub-Saharan Africa,7.56,66
+2019,Nepal,NPL,South Asia,7.12,84
+2019,Netherlands,NLD,Western Europe,8.78,11
+2019,New Zealand,NZL,Oceania,9.01,2
+2019,Nicaragua,NIC,Latin America & the Caribbean,6.24,125
+2019,Niger,NER,Sub-Saharan Africa,6.41,118
+2019,Nigeria,NGA,Sub-Saharan Africa,6.28,123
+2019,North Macedonia,MKD,Eastern Europe,7.75,58
+2019,Norway,NOR,Western Europe,8.76,13
+2019,Oman,OMN,Middle East & North Africa,5.92,133
+2019,Pakistan,PAK,South Asia,5.63,145
+2019,Panama,PAN,Latin America & the Caribbean,8.12,44
+2019,Papua New Guinea,PNG,Oceania,7.17,82
+2019,Paraguay,PRY,Latin America & the Caribbean,7.54,67
+2019,Peru,PER,Latin America & the Caribbean,7.93,50
+2019,Philippines,PHL,South Asia,6.83,101
+2019,Poland,POL,Eastern Europe,7.96,49
+2019,Portugal,PRT,Western Europe,8.69,18
+2019,Qatar,QAT,Middle East & North Africa,6.15,128
+2019,Romania,ROU,Eastern Europe,8.33,35
+2019,Russian Federation,RUS,Eastern Europe,6.23,126
+2019,Rwanda,RWA,Sub-Saharan Africa,6.36,120
+2019,Saudi Arabia,SAU,Middle East & North Africa,5.12,155
+2019,Senegal,SEN,Sub-Saharan Africa,7.07,87
+2019,Serbia,SRB,Eastern Europe,7.54,67
+2019,Seychelles,SYC,Sub-Saharan Africa,7.84,57
+2019,Sierra Leone,SLE,Sub-Saharan Africa,6.7,111
+2019,Singapore,SGP,South Asia,7.98,48
+2019,Slovak Republic,SVK,Eastern Europe,8.21,39
+2019,Slovenia,SVN,Eastern Europe,8.37,32
+2019,Somalia,SOM,Sub-Saharan Africa,4.93,159
+2019,South Africa,ZAF,Sub-Saharan Africa,7.3,77
+2019,Spain,ESP,Western Europe,8.56,25
+2019,Sri Lanka,LKA,South Asia,6.58,112
+2019,Sudan,SDN,Sub-Saharan Africa,4.48,162
+2019,Suriname,SUR,Latin America & the Caribbean,7.64,63
+2019,Sweden,SWE,Western Europe,8.83,9
+2019,Switzerland,CHE,Western Europe,9.11,1
+2019,Syrian Arab Republic,SYR,Middle East & North Africa,3.66,165
+2019,Taiwan,TWN,East Asia,8.68,19
+2019,Tajikistan,TJK,Caucasus & Central Asia,5.52,153
+2019,Tanzania,TZA,Sub-Saharan Africa,6.48,114
+2019,Thailand,THA,South Asia,6.89,96
+2019,Timor-Leste,TLS,South Asia,7.22,78
+2019,Togo,TGO,Sub-Saharan Africa,6.5,113
+2019,Trinidad and Tobago,TTO,Latin America & the Caribbean,7.7,60
+2019,Tunisia,TUN,Middle East & North Africa,6.46,116
+2019,Turkey,TUR,Middle East & North Africa,5.79,139
+2019,Uganda,UGA,Sub-Saharan Africa,6.32,122
+2019,Ukraine,UKR,Eastern Europe,6.86,98
+2019,United Arab Emirates,ARE,Middle East & North Africa,6.06,131
+2019,United Kingdom,GBR,Western Europe,8.75,14
+2019,United States,USA,North America,8.73,15
+2019,Uruguay,URY,Latin America & the Caribbean,8.36,33
+2019,Venezuela,VEN,Latin America & the Caribbean,4.03,164
+2019,Vietnam,VNM,South Asia,5.9,134
+2019,Yemen,YEM,Middle East & North Africa,4.08,163
+2019,Zambia,ZMB,Sub-Saharan Africa,6.82,102
+2019,Zimbabwe,ZWE,Sub-Saharan Africa,5.6,149
