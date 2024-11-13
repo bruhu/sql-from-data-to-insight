@@ -1,30 +1,30 @@
-CREATE DATABASE IF NOT EXISTS happines_world;
+CREATE DATABASE IF NOT EXISTS happiness_world;
 
-USE happines_world;
+USE happiness_world;
 
-CREATE TABLE `freedom_index_clean` (
-    `id` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    `year` BIGINT NOT NULL,
+CREATE TABLE `freedom_index` (
+    `id` INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `year` INT NOT NULL,
     `countries` CHAR(255) NOT NULL,
     `ISO` CHAR(255) NOT NULL,
     `region` CHAR(255) NOT NULL,
     `hf_score` FLOAT(53) NOT NULL,
-    `hf_rank` BIGINT NOT NULL,
-    UNIQUE INDEX (countries)  -- Adding unique index to `countries` for foreign key constraint
+    `hf_rank` INT NOT NULL,
+    UNIQUE INDEX (countries) 
 );
 
 CREATE TABLE `life_expectancy` (
-    `id` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `id` INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
     `Country` CHAR(255) NOT NULL,
-    `Year` BIGINT NOT NULL,
+    `Year` INT NOT NULL,
     `Life Expectance at Birth (Both Sexes)` FLOAT(53) NOT NULL,
     `Healthy Life Expectancy at Birth (Both Sexes)` FLOAT(53) NOT NULL,
-    UNIQUE INDEX (Country)  -- Adding unique index to `Country` for foreign key constraint
+    UNIQUE INDEX (Country)  
 );
 
-CREATE TABLE `clean_2019` (  -- Renamed `2019_clean` to `clean_2019` to avoid issues with table names starting with numbers
-    `id` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    `rank` BIGINT NOT NULL,
+CREATE TABLE `happiness_score` (  
+    `id` INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `rank` INT NOT NULL,
     `country` CHAR(255) NOT NULL,
     `score` FLOAT(53) NOT NULL,
     `gdp` FLOAT(53) NOT NULL,
@@ -33,24 +33,24 @@ CREATE TABLE `clean_2019` (  -- Renamed `2019_clean` to `clean_2019` to avoid is
     `freedom` FLOAT(53) NOT NULL,
     `generosity` FLOAT(53) NOT NULL,
     `corruption` FLOAT(53) NOT NULL,
-    UNIQUE INDEX (country)  -- Adding unique index to `country` for foreign key constraint
+    UNIQUE INDEX (country)  
 );
 
-CREATE TABLE `cleaned_gdp_data` (
-    `id` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+CREATE TABLE `gdp` (
+    `id` INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
     `entity` CHAR(255) NOT NULL,
     `code` CHAR(255) NOT NULL,
-    `year` BIGINT NOT NULL,
+    `year` INT NOT NULL,
     `gdp_per_capita_ppp` FLOAT(53) NOT NULL,
-    UNIQUE INDEX (entity)  -- Adding unique index to `entity` for foreign key constraint
+    UNIQUE INDEX (entity)  
 );
 
 -- Adding foreign key constraints with unique names
-ALTER TABLE `clean_2019`
-ADD CONSTRAINT `clean_2019_country_foreign` FOREIGN KEY (`country`) REFERENCES `freedom_index_clean`(`countries`);
+ALTER TABLE `happiness_score`
+ADD CONSTRAINT `happiness_score_country_foreign` FOREIGN KEY (`country`) REFERENCES `freedom_index`(`countries`);
 
 ALTER TABLE `freedom_index_clean`
-ADD CONSTRAINT `freedom_index_clean_gdp_foreign` FOREIGN KEY (`countries`) REFERENCES `cleaned_gdp_data`(`entity`);
+ADD CONSTRAINT `freedom_index_gdp_foreign` FOREIGN KEY (`countries`) REFERENCES `gdp`(`entity`);
 
 ALTER TABLE `freedom_index_clean`
-ADD CONSTRAINT `freedom_index_clean_life_expectancy_foreign` FOREIGN KEY (`countries`) REFERENCES `life_expectancy`(`Country`);
+ADD CONSTRAINT `freedom_index_life_expectancy_foreign` FOREIGN KEY (`countries`) REFERENCES `life_expectancy`(`Country`);
