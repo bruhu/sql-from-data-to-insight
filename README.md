@@ -23,19 +23,17 @@ https://ourworldindata.org/grapher/gdp-per-capita-worldbank?tab=table&time=2019&
 
 ## Setup
 
-This project is a team effort, with each member contributing to different aspects. Tasks will be divided and planned out throughout the week, ensuring both effective data exploration and insightful analysis.
+To see the database, you can use the Database.sql file in MySQL Workbench to import the database structure, tables and its contents into MySQL. 
 
-Tools:
+Required tools:
 
-- Database: MySQL (for creating and managing the database)
+- Database: MySQL Workbench(for creating and managing the database)
 - Python: Jupyter Notebooks, Pandas, Matplotlib, Seaborn
 - Git: Version control for managing the codebase
 
 
-## Brief
+## Colclusions:
 
-The project begins by selecting datasets relevant to global happiness scores. We used data from sources like Kaggle, APIs, and CSV files. 
-The datasets were chosen for their relevance to understanding happiness metrics and their ability to support meaningful analysis when combined.
 
 ## The Team
 
