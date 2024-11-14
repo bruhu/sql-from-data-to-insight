@@ -1,4 +1,5 @@
 
+USE happines_world;
 
 CREATE TABLE combined_data AS
 SELECT 
@@ -92,6 +93,8 @@ SELECT
 FROM 
     top_10_happiest,
     bottom_10_happiest;
+    
+    -- finish
 
 
 
