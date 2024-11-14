@@ -34,11 +34,11 @@ https://ourworldindata.org/grapher/gdp-per-capita-worldbank?tab=table&time=2019&
 
 ## Setup
 
-This project is a team effort, with each member contributing to different aspects. Tasks will be divided and planned out throughout the week, ensuring both effective data exploration and insightful analysis.
+To see the database, you can use the Database.sql file in MySQL Workbench to import the database structure, tables and its contents into MySQL. 
 
 ## Tools:
 
-- Database: MySQL (for creating and managing the database)
+- Database: MySQL Workbench(for creating and managing the database)
 - Python: Jupyter Notebooks, Pandas, Matplotlib, Seaborn
 - Git: Version control for managing the codebase
 
@@ -46,6 +46,10 @@ This project is a team effort, with each member contributing to different aspect
 
 - Countries with higher GDP tend to have higher scores, but those with better social support and freedom show even higher happiness levels, even with a lower GDP.
 - Countries with lower corruption and stronger social structures tend to have higher happiness scores, suggesting that improving these areas, especially in lower-income countries, could boost overall well-being.
+
+
+## Presentation:
+https://www.canva.com/design/DAGWYPWUKak/9ymTiWSLJocxl6_z_4DWBQ/edit
 
 ## The Team
 
