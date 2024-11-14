@@ -44,8 +44,8 @@ To see the database, you can use the Database.sql file in MySQL Workbench to imp
 
 ## Key Findings
 
-- Countries with higher GDP tend to have higher scores, but those with better social support and freedom show even higher happiness levels, even with a lower GDP.
-- Countries with lower corruption and stronger social structures tend to have higher happiness scores, suggesting that improving these areas, especially in lower-income countries, could boost overall well-being.
+- Happiness is strongly linked to factors like GDP, social support, and freedom of choice. 
+- Countries with higher GDP tend to have higher scores, but those with better freedom show even higher happiness levels, even with a lower GDP.
 
 
 ## Presentation:
