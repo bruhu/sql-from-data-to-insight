@@ -44,8 +44,8 @@ To see the database, you can use the Database.sql file in MySQL Workbench to imp
 
 ## Key Findings
 
-- Happiness is strongly linked to factors like GDP, social support, and freedom of choice. 
-- Countries with higher GDP tend to have higher scores, but those with better freedom show even higher happiness levels, even with a lower GDP.
+- Happiness is strongly linked to GDP and life expectancy index.. 
+- The happiness score is higher in West Europe, North America and Australia compared to other parts of the world.
 
 
 ## Presentation:
