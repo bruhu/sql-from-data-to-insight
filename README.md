@@ -14,9 +14,13 @@ The project revolves around analyzing global happiness scores, exploring factors
 
 ## Datasets:
 For this project, we used 4 datasets, the main dataset was the world happiness ranking and score. We also add three datasets for GDP per capita, freedom score and life expectancy to examine the correlations between these indexes and happiness score. You can find the datasets here:
+
 https://www.kaggle.com/datasets/unsdsn/world-happiness/data
+
 https://www.cato.org/human-freedom-index/2021
+
 https://apps.who.int/gho/data/view.main.SDG2016LEXv?lang=en
+
 https://ourworldindata.org/grapher/gdp-per-capita-worldbank?tab=table&time=2019&showSelectionOnlyInTable=1
 
 ## Data Description
